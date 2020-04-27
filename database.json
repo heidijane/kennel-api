@@ -1,57 +1,46 @@
 {
   "animals": [
     {
-      "id": 1,
-      "name": "Doodles",
-      "breed": "Poodle",
-      "customerId": 1,
-      "locationId": 2
-    },
-    {
       "id": 2,
-      "name": "Barney",
+      "name": "Frisket",
       "breed": "Boxer",
-      "customerId": 2,
-      "locationId": 1
+      "locationId": 1,
+      "customerId": 2
     },
     {
+      "id": 3,
       "name": "Doug",
       "breed": "Prairie Dog",
-      "customerId": 3,
       "locationId": 2,
-      "id": 3
+      "customerId": 1
     },
     {
       "name": "Kismet",
       "breed": "Prairie Dog",
-      "customerId": 3,
+      "customerId": 1,
       "locationId": 2,
       "id": 4
     },
     {
+      "id": 5,
       "name": "Tato",
       "breed": "Prairie Dog",
-      "customerId": 3,
       "locationId": 2,
-      "id": 5
+      "customerId": 1
     }
   ],
   "customers": [
     {
-      "id": 1,
-      "name": "Hannah Hall",
-      "address": "7002 Chestnut Ct"
-    },
-    {
-      "id": 2,
-      "name": "Caitlin Stein",
-      "address": "4 Killian Trace"
-    },
-    {
       "email": "heidi@me.com",
       "password": "1234",
       "name": "Heidi Sprouse",
-      "id": 3
+      "id": 1
+    },
+    {
+      "email": "boop@boop.com",
+      "password": "1234",
+      "name": "Boop Snootleson",
+      "id": 2
     }
   ],
   "employees": [
